@@ -1,4 +1,4 @@
-is
+# Banking Data Analysis
 
 This project analyzes anonymized banking transaction and user datasets to uncover customer insights, spending patterns, and credit risk segments.
 
@@ -11,7 +11,6 @@ This project analyzes anonymized banking transaction and user datasets to uncove
   - Credit scores
   - Merchant categories
   - Transaction times and states
-- Optional: Refund and card brand analysis
 
 ## How to Run
 
